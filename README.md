@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Riki Nchabeleng</h1>
+![Banner](https://github.com/RNchabeleng/RNchabeleng/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png)
+<h1 align="center">Hey there 👋, I'm Reokeditswe (Riki) Nchabeleng</h1>
 <h3 align="center">A dedicated frontend developer from Cape Town, South Africa</h3>
 
 - 🔭 I’m currently working on **Hotel Management Website**
@@ -21,6 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/RNchabeleng"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/RNchabeleng" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnchabeleng&show_icons=true&locale=en" alt="rnchabeleng" /></p>
-
